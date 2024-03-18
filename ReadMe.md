@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzeb-ali-web-developer&show_icons=true&locale=en" alt="shahzeb-ali-web-developer" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb-ali-web-developer&" alt="shahzeb-ali-web-developer" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb-ali-web-developer&" alt="shahzeb-ali-web-developer" /></p>
