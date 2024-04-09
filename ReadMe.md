@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Linkedin.com/in/shahzeb2001**
 
-- ⚡ Fun fact **Neither Life stops teaching, Nor I stop Learning :)**
+- ⚡ The fact **Life stops teaching, Nor I stop Learning :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
