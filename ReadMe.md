@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahzeb Ali</h1>
 <h3 align="center">Professional Web & Graphic Designer | Data Science Student | Microsoft Beta Ambassador</h3>
-![image](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/assets/126076773/05329a7c-fcb1-494e-b0a6-660e1b18b01f)
 
 
-(https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/assets/126076773/394f9115-d796-4427-99c7-d66ed8696176)
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/assets/126076773/5fcb2a7b-f233-4737-98bb-3cbe9b102feb)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb-ali-web-developer&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb-ali-web-developer" /> </p>
