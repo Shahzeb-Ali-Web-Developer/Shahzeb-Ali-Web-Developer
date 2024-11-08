@@ -7,22 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb-ali-web-developer&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb-ali-web-developer" /> </p>
 
-
-- 🔭 I’m currently working on **Web Projects, Data Science**
-
-- 🌱 I’m currently learning **Python Advance, DSA & Analysis, DB**
-
-- 👯 I’m looking to collaborate on [Python Deepfake Faceswap Tool](https://colab.research.google.com/drive/1h5vY-EvTN8wu8CctMr3eN1CFCT5dRrrJ?usp=drive_link)
-
 - 👨‍💻 All of my projects are available at [github.com/shahzeb-ali-web-developer](github.com/shahzeb-ali-web-developer)
 
 - 📝 I regularly write articles on [linkedin.com/in/shahzeb2001](linkedin.com/in/shahzeb2001)
 
-- 💬 Ask me about **Web Development, Python, Devloper Tools, Graphic Designing**
-
 - 📫 How to reach me **Linkedin.com/in/shahzeb2001**
-
-- ⚡ The fact **Life stops teaching, Nor I stop Learning :)**
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
