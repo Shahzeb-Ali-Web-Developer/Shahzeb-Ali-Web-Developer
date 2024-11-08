@@ -39,6 +39,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb-ali-web-developer&" alt="shahzeb-ali-web-developer" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzeb-ali-web-developer&show_icons=true&locale=en&layout=compact" alt="shahzeb-ali-web-developer" /></p>
 
+
+
+
+
+![snake gif](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/github-contribution-grid-snake.gif)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzeb-ali-web-developer&show_icons=true&locale=en" alt="shahzeb-ali-web-developer" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
