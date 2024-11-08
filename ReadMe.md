@@ -46,5 +46,5 @@
 
 
 
-![snake gif](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/ocean.gif)
+![snake gif](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/github-snake-dark.svg)
 
