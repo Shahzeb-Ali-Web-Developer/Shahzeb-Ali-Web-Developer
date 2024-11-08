@@ -41,7 +41,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzeb-ali-web-developer&show_icons=true&locale=en" alt="shahzeb-ali-web-developer" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
