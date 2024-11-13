@@ -34,10 +34,10 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
   <!-- First image with defined size -->
-  <img src="https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true" width="445" height="200" />
+  <img src="https://github-activity-readme-stats.vercel.app/api?username=Shahzeb-Ali-Web-Developer&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true" width="445" height="200" />
 
   <!-- Second image with adjusted size to match the first -->
- <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Maham-j&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6" width="350" height="199"/>
+ <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Shahzeb-Ali-Web-Developer&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6" width="350" height="199"/>
    
 </div>
 
@@ -48,15 +48,11 @@
 
   <!-- First image with defined size -->
   <!-- Second image with similar size -->
-  <img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" width="445" height="200" />
+  <img src="https://streak-stats.demolab.com?user=Shahzeb-Ali-Web-Developer&theme=hacker" width="445" height="200" />
 
   <!-- Second image with adjusted size to match the first -->
- <img src="https://github-contributor-stats.vercel.app/api?username=Maham-j&limit=5&theme=dark&combine_all_yearly_contributions=true" width="350" height="199" />
+ <img src="https://github-contributor-stats.vercel.app/api?username=Shahzeb-Ali-Web-Developer&limit=5&theme=dark&combine_all_yearly_contributions=true" width="350" height="199" />
 </div>
-
-
-
-
 
 
 ![snake gif](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/github-snake-dark.svg)
