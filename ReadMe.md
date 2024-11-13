@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahzeb Ali</h1>
 <h3 align="center">Professional Web & Graphic Designer | Data Science Student | Microsoft Beta Ambassador</h3>
-
+  <a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Data+Scientist;;Data+Enthusiast&font=Fira%20Code&center=true&width=600&height=45&color=9e4c98&vCenter=true&pause=100&size=22" /></a>
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/assets/126076773/5fcb2a7b-f233-4737-98bb-3cbe9b102feb)
 
