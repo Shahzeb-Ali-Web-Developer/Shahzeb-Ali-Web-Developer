@@ -1,31 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0f172a,45:1e293b,75:2563eb,100:38bdf8&text=SHAHZEB%20ALI&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=fadeIn&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Engineering&descAlignY=58&descSize=20"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Systems+with+Data;Machine+Learning+%7C+Computer+Vision+%7C+AI;Turning+Ideas+Into+Scalable+Solutions;Data+Science+Graduate+%F0%9F%9A%80"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:020617,20:0f172a,45:1e293b,70:2563eb,100:38bdf8&text=SHAHZEB%20ALI&fontColor=ffffff&fontSize=68&animation=fadeIn&fontAlignY=45&desc=AI%20•%20Machine%20Learning%20•%20Data%20Engineering&descAlignY=64&descSize=20"/>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=31&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&lines=Building+AI-Powered+Systems;Machine+Learning+%7C+Computer+Vision+%7C+Data+Engineering;Creating+Scalable+Solutions+with+Data;BS+Data+Science+Graduate+🚀"/>
 
-<img src="https://img.shields.io/badge/AI%20Engineer-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Data%20Science-Graduate-111827?style=for-the-badge&logo=databricks&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/ML%20Explorer-0b1120?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/MS%20Learn-Ambassador-2563eb?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<br/><br/>
 
-</div>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0b1120?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-0f172a?style=for-the-badge&logo=apachekafka&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shahzeb-Ali-Web-Developer&style=flat-square&color=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=Shahzeb-Ali-Web-Developer&style=for-the-badge&color=38BDF8"/>
 
 </div>
 
@@ -33,13 +23,21 @@
 
 <div align="center">
 
-# ⚡ SYSTEM PROFILE
+# ⚡ DIGITAL PROFILE
 
 </div>
 
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="52%" align="left">
 
 ```yaml
 name: Shahzeb Ali
@@ -48,24 +46,24 @@ role: AI & Data Engineering Enthusiast
 education:
   degree: BS Data Science
 
-interests:
+focus:
   - Machine Learning
   - Deep Learning
   - Computer Vision
   - Data Engineering
-  - AI Systems
+  - Intelligent Systems
 
 currently_learning:
   - ML Engineering
+  - Distributed Data Systems
   - Scalable AI Pipelines
-  - Advanced Deep Learning
 
-status: Building cool stuff 🚀
+mindset: "Build • Learn • Iterate 🚀"
 ```
 
 </td>
 
-<td width="50%" align="center">
+<td width="48%" align="center">
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shahzeb-Ali-Web-Developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&rank_icon=github"/>
 
@@ -77,27 +75,27 @@ status: Building cool stuff 🚀
 
 <div align="center">
 
-# 🛠 TECH STACK
+# 🛠 TECH ECOSYSTEM
 
 </div>
 
 <div align="center">
 
-### Languages & Core
+### Core Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,js,bash,git,github,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,bash,git,github,linux,vscode&theme=dark"/>
 
 <br/><br/>
 
-### AI / Data
+### AI • ML • Data
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgres,docker,anaconda&theme=dark"/>
 
 <br/><br/>
 
-### Tools
+### Productivity
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,notion&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=figma,notion,obsidian&theme=dark"/>
 
 </div>
 
@@ -121,7 +119,15 @@ status: Building cool stuff 🚀
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shahzeb-Ali-Web-Developer&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahzeb-Ali-Web-Developer&theme=tokyonight"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shahzeb-Ali-Web-Developer&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1"/>
 
 </div>
 
@@ -129,19 +135,19 @@ status: Building cool stuff 🚀
 
 <div align="center">
 
-# 🌌 CURRENT FOCUS
+# 🌌 CURRENT INTERESTS
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-
 <img src="https://img.shields.io/badge/Deep%20Learning-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 
 <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 
-<img src="https://img.shields.io/badge/Data%20Engineering-0f172a?style=for-the-badge&logo=apachekafka&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/AI%20Systems-0b1120?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+
+<img src="https://img.shields.io/badge/Data%20Pipelines-111827?style=for-the-badge&logo=apacheairflow&logoColor=38BDF8"/>
 
 </div>
 
@@ -157,17 +163,7 @@ status: Building cool stuff 🚀
 
 <div align="center">
 
-# 🐍 CONTRIBUTION GRAPH
-
-<img src="https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/github-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📡 CONNECT WITH ME
+# 🌐 CONNECT
 
 <br/>
 
@@ -185,6 +181,6 @@ status: Building cool stuff 🚀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,25:0f172a,50:1e293b,75:2563eb,100:38bdf8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:020617,20:0f172a,45:1e293b,70:2563eb,100:38bdf8"/>
 
 </div>
