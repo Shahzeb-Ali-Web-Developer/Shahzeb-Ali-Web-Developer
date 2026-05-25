@@ -1,97 +1,122 @@
-<h1 align="center">Hi 👋, I'm Shahzeb Ali</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Engineering Enthusiast • Data Science Graduate • ML Explorer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shahzeb%20Ali&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a8a,100:38bdf8&fontColor=ffffff&fontSize=52&desc=AI%20%7C%20Data%20Engineering%20%7C%20Machine%20Learning&descAlignY=60&animation=fadeIn"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Graduate;AI+%26+Data+Engineering+Enthusiast;Machine+Learning+%7C+Computer+Vision;Building+Intelligent+Systems" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahzeb-Ali-Web-Developer&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=850&lines=Data+Science+Graduate;AI+%26+Data+Engineering+Enthusiast;Machine+Learning+%7C+Computer+Vision;Building+Scalable+Intelligent+Systems;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shahzeb-Ali-Web-Developer&style=for-the-badge&color=38bdf8"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ About Me
+## ✨ About Me
 
 </div>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-- 🎓 BS Data Science Graduate  
-- 🤖 Exploring AI, ML & Data Engineering  
-- 📊 Interested in Deep Learning & Computer Vision  
-- 🧠 Learning scalable ML systems & pipelines  
-- 🏏 Building AI-powered sports analytics projects  
-- 🎖️ Microsoft Learn Student Ambassador (Beta)  
-- 🌱 Currently improving Python & ML Engineering skills  
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="320" src="https://github-readme-stats.vercel.app/api?username=Shahzeb-Ali-Web-Developer&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,js,git,github,vscode,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgres&theme=dark" />
-</p>
-
----
-
-<div align="center">
-
-## 📌 Focus Areas
-
-</div>
-
-<p align="center">
-
-```text
-Machine Learning • Deep Learning • Computer Vision
-Data Engineering • AI Systems • Data Analytics
+```yaml
+name: Shahzeb Ali
+education: BS Data Science Graduate
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Engineering
+  - Computer Vision
+currently_learning:
+  - ML Engineering
+  - Scalable AI Systems
+  - Deep Learning Architectures
+role: Microsoft Learn Student Ambassador (Beta)
 ```
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## 📈 GitHub Analytics
+## ⚒️ Tech Arsenal
 
 </div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzeb-Ali-Web-Developer&theme=github-dark-blue&hide_border=true" />
-  
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzeb-Ali-Web-Developer&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahzeb-Ali-Web-Developer&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,js,git,github,linux,vscode&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgres,docker&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Universe
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shahzeb-Ali-Web-Developer&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=cbd5e1&icon_color=38bdf8&rank_icon=github"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzeb-Ali-Web-Developer&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=cbd5e1"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Shahzeb-Ali-Web-Developer&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shahzeb-Ali-Web-Developer&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 Focus Areas
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+Artificial Intelligence • Machine Learning • Deep Learning
+Computer Vision • Data Engineering • Data Analytics
+```
+
+</div>
 
 ---
 
@@ -101,28 +126,32 @@ Data Engineering • AI Systems • Data Analytics
 
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shahzeb2001">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  
-  <a href="https://github.com/Shahzeb-Ali-Web-Developer">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/shahzeb2001">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
+</a>
+
+<a href="https://github.com/Shahzeb-Ali-Web-Developer">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
+
+<img src="https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/github-snake-dark.svg"/>
 
 </div>
 
-<p align="center">
-  <img src="https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/github-snake-dark.svg" />
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:38bdf8"/>
+
+</div>
