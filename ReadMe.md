@@ -1,43 +1,93 @@
 <h1 align="center">Hi 👋, I'm Shahzeb Ali</h1>
-<h3 align="center">Professional Web & Graphic Designer | Data Science Student | Microsoft Beta Ambassador</h3>
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/assets/126076773/5fcb2a7b-f233-4737-98bb-3cbe9b102feb)
+<h3 align="center">
+Data Science Graduate | AI & Data Engineering Enthusiast | Web Developer & Designer
+</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Graduate;AI+%26+Data+Engineering+Enthusiast;Web+Developer+%26+Graphic+Designer;Microsoft+Learn+Student+Ambassador+(Beta)" alt="Typing SVG" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb-ali-web-developer&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb-ali-web-developer" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shahzeb-Ali-Web-Developer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 📫 How to reach me **Linkedin.com/in/shahzeb2001**
+---
 
-<!-- Github Stats and Activity -->
+## 🚀 About Me
 
-**_<h3><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px"> &nbsp; Github Stats and Activity</h3>_**
+- 🎓 Bachelor's in **Data Science** from the **University of the Punjab, Lahore**
+- 🤖 Passionate about **AI, Machine Learning, Computer Vision & Data Engineering**
+- 💻 Professional **Web Developer & Graphic Designer**
+- 🌐 Skilled in **WordPress, Elementor, HTML, CSS, JavaScript & SQL**
+- 📊 Interested in **Data Analytics, ML Systems & AI-powered Applications**
+- 🏏 Worked on projects like **AI NoBall Detection in Cricket**
+- 🎖️ Microsoft Learn Student Ambassador (**Beta**)
 
-<hr></hr>
+---
 
-<!-- Container with flexbox to align images side by side -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
+## 🛠️ Tech Stack
 
-  <!-- First image with defined size -->
-  <img src="https://github-activity-readme-stats.vercel.app/api?username=Shahzeb-Ali-Web-Developer&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true" width="445" height="200" />
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql,c,cpp" />
+</p>
 
-  <!-- Second image with adjusted size to match the first -->
- <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Shahzeb-Ali-Web-Developer&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6" width="350" height="199"/>
-   
-</div>
+### ⚡ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,wordpress,mysql,git,github,vscode,figma" />
+</p>
 
-<!--  streak and top -->
+### 📚 Data Science & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-<!-- Container with flexbox to align images side by side -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
+---
 
-  <!-- First image with defined size -->
-  <!-- Second image with similar size -->
-  <img src="https://streak-stats.demolab.com?user=Shahzeb-Ali-Web-Developer&theme=hacker" width="445" height="200" />
+## 📌 Featured Projects
 
-  <!-- Second image with adjusted size to match the first -->
- <img src="https://github-contributor-stats.vercel.app/api?username=Shahzeb-Ali-Web-Developer&limit=5&theme=dark&combine_all_yearly_contributions=true" width="350" height="199" />
-</div>
+### 🏏 AI NoBall Detection in Cricket
+Computer Vision based project for automatic no-ball detection using deep learning techniques.
 
+### 🌐 Fruitipie.com
+Developed a modern business website for a Pakistan-based fruit supplier company.
 
-![snake gif](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/github-snake-dark.svg)
+### 🚗 Mushtaq Car Rental
+Designed and developed a website for a car rental service provider in Pakistan.
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahzeb-Ali-Web-Developer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzeb-Ali-Web-Developer&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahzeb-Ali-Web-Developer&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shahzeb2001" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/Shahzeb-Ali-Web-Developer" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
